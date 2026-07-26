@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# CPU Basics
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+Ported from undergrad notes in July 2026.
+
