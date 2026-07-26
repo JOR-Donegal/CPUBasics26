@@ -1,7 +1,6 @@
 # Components
 
 Modern devices abstract away their internal complexity. I want to try to explain how a computer works from the component level upwards.
-These notes are extracted from undergraduate Computer Architecture material I wrote c. 2014.
 
 The fundamental components we use in every electrical circuit include:
 
