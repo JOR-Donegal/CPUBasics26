@@ -1,4 +1,4 @@
-site_name: Topic Template
+site_name: CPU 101
 site_url: https://example.com
 theme:
   name: material
@@ -15,8 +15,8 @@ theme:
   palette:
       # Light Mode
     - scheme: default
-      primary: green
-      accent: red
+      primary: deep orange
+      accent: green
 
 markdown_extensions:
   - pymdownx.highlight:
